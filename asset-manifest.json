@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lab-todo-in-react/static/css/main.d030f443.css",
+    "main.js": "/lab-todo-in-react/static/js/main.e133ad1b.js",
+    "static/js/787.91ab934d.chunk.js": "/lab-todo-in-react/static/js/787.91ab934d.chunk.js",
+    "index.html": "/lab-todo-in-react/index.html",
+    "main.d030f443.css.map": "/lab-todo-in-react/static/css/main.d030f443.css.map",
+    "main.e133ad1b.js.map": "/lab-todo-in-react/static/js/main.e133ad1b.js.map",
+    "787.91ab934d.chunk.js.map": "/lab-todo-in-react/static/js/787.91ab934d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d030f443.css",
+    "static/js/main.e133ad1b.js"
+  ]
+}
